@@ -20,3 +20,5 @@ When submitting a supervision request, please make sure to include the following
 8. whether you would be available for **in person / hybrid supervision meetings**, or whether you require a **fully online supervision**
 
 Please send your request to my work email address, which you can find [here](https://www.universiteitleiden.nl/en/staffmembers/mirko-signorelli#tab-1). It may be convenient to include (6) and (7) as attachments (for example, as sheets of a spreadsheet).
+
+Thank you for your interest in me as possible supervisor, and for taking the time to write a comprehensive supervision request!
