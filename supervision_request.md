@@ -13,8 +13,8 @@ When submitting a supervision request, please make sure to include the following
 1. your **name, surname and student number**
 2. the **name of your bachelor / master programme**
 3. if you are a master student: what did you study in your bachelor?
-4. **number of ECs** assigned to the project
-5. what are **your research interests**: are there a specific topics, either methodological or applied, that you would like to explore?
+4. **number of ECs** assigned to the project and expected duration
+5. your **research interests**: are there a specific topics, either methodological or applied, that you would like to explore?
 6. a **list of exams you have already passed** (inclusive of grades)
 7. a **list of courses that you have followed / are following**, for which you have not yet done / passed an exam
 8. whether you would be available for **in person / hybrid supervision meetings**, or whether you require a **fully online supervision**
