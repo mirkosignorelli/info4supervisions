@@ -19,4 +19,4 @@ When submitting a supervision request, please make sure to include the following
 7. a **list of courses that you have followed / are following**, for which you have not yet done / passed an exam
 8. whether you would be available for **in person / hybrid supervision meetings**, or whether you require a **fully online supervision**
 
-Please send your request to my work email address, which you can find [https://www.universiteitleiden.nl/en/staffmembers/mirko-signorelli#tab-1](here). It might be convenient to include (6) and (7) as attachments (for example, as sheets of a spreadsheet).
+Please send your request to my work email address, which you can find (https://www.universiteitleiden.nl/en/staffmembers/mirko-signorelli#tab-1)[here]. It might be convenient to include (6) and (7) as attachments (for example, as sheets of a spreadsheet).
