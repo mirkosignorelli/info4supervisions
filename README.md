@@ -1,6 +1,6 @@
 # Information about supervision of research projects for bachelor and master students
 
-This repository contains a few documents that are meant to facilitate and streamline my supervisions of bachelor and master students. Note that this folder is currently **work in progress**.
+This repository contains a few documents that are meant to facilitate and streamline some parts of my supervisions of bachelor and master students. Note that this folder is currently **work in progress**.
 
 ## Supervision requests
 
