@@ -2,7 +2,7 @@
 
 ## Foreword
 
-Whether it's for a bachelor or a master thesis project, a supervision requires a substantial amount of work that usually spans over months. For this reason, it is important for me to make sure that I am in possession of as much relevant information as possible about the student I will be working with before we decide whether we want to commit to a supervision relationship. The reason why I ask you to provide me with such information is to ensure that there is a good match between yourv background and preparation and the research project, so that we can minimize the risk of dropouts or delays.
+Whether it's for a bachelor or a master thesis project, a supervision requires a substantial amount of work (both for the student, and the supervisor) that usually spans over months. For this reason, **it is important for me to make sure that I am in possession of as much relevant information as possible about the student I will be working with before we decide whether we want to commit to a supervision relationship**. The reason why I ask you to provide me with such information is to ensure that there is a good match between your background and preparation and the research project, so that we can **minimize the risk of dropouts or delays**.
 
 Please keep in mind that I typically receive more supervision requests than I can possibly accommodate, and for this reason I sometimes have to turn supervision requests down. This is also why I take supervision requests seriously, and I ask you to provide me with the information listed below.
 
