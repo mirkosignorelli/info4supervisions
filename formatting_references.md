@@ -35,6 +35,8 @@ Managing references and citation styles is a tedious task. Luckily, it can be ea
 `\bibliographystyle{apalike}`  
 `\bibliography{bibtex_filename}`
 
-  at the end of the document
+ at the end of the document
 
+8. Compile your LaTeX document with `PDFLaTeX` once, then compile the BibTeX archive with BibTeX, and then recompile the LaTeX document with PDFLaTeX **twice**.
 
+If you have troubles doing this, let me know and I can try to help you making this procedure work. It takes some time to get used to it, but it is worth it in the long run!
