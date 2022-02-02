@@ -11,7 +11,7 @@ Are you interested in doing your thesis project with me? If so, please check out
 
 ## Formatting references
 
-WIP
+Please use an **author-year** citation stile for references in your project proposal and thesis. [Check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/formatting_references.md) for more tips and recommendations about how to manage references and bibliographies.
 
 ## Writing your thesis
 
