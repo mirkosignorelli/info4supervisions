@@ -32,7 +32,8 @@ Managing references and citation styles is a tedious task. Luckily, it can be ea
 6. Save the BibTeX archive
 7. In your LaTeX document, include `\usepackage{natbib}` in the preamble, and:
 
-`\bibliographystyle{apalike}  \bibliography{bibliography}`
+`\bibliographystyle{apalike}`
+`\bibliography{bibtex_filename}`
 
 at the end of the document
 
