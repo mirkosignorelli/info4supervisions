@@ -35,6 +35,6 @@ Managing references and citation styles is a tedious task. Luckily, it can be ea
 `\bibliographystyle{apalike}`  
 `\bibliography{bibtex_filename}`
 
-at the end of the document
+  at the end of the document
 
 
