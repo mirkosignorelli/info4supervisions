@@ -17,7 +17,7 @@ Managing references and citation styles is a tedious task. Luckily, it can be ea
 3. Use Google Scholar to identify the resource you want to cite, then click on: Cite -> BibTeX
 4. Copy the BibTeX code that appears, for example:
 
-@article{signorelli2020model,
+`@article{signorelli2020model,
   title={Model-based clustering for populations of networks},
   author={Signorelli, Mirko and Wit, Ernst C},
   journal={Statistical Modelling},
@@ -26,14 +26,13 @@ Managing references and citation styles is a tedious task. Luckily, it can be ea
   pages={9--29},
   year={2020},
   publisher={SAGE Publications Sage India: New Delhi, India}
-}
+}`
 
 5. Add this BibTeX-formatted citation to your JabRef file (click on the +, then in the new record click on "BibTeX source" and insert the copied text there)
 6. Save the BibTeX archive
 7. In your LaTeX document, include `\usepackage{natbib}` in the preamble, and:
 
-`\bibliographystyle{apalike}
-	\bibliography{bibliography}`
+`\bibliographystyle{apalike}  \bibliography{bibliography}`
 
 at the end of the document
 
