@@ -15,4 +15,4 @@ Please use an **author-year** citation stile for references in your project prop
 
 ## Writing your thesis
 
-WIP
+Writing a thesis is a process that spans over weeks or months, and it's a process that is hard to standardize. Nevertheless, here I have tried to gather some [guidelines that can help make your thesis well-structured and more readable](https://github.com/mirkosignorelli/info4supervisions/blob/main/thesis_writing.md).
