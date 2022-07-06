@@ -1,4 +1,4 @@
-# Guidelines and recommendation on how to write your thesis
+# Guidelines and recommendation on how to write your thesis (work in progress!)
 
 ## Document formatting
 
@@ -9,3 +9,13 @@
 * Use an author-year citation style for your references. See [this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/formatting_references.md) for more information about how to do this
 
 ## Structuring your thesis
+
+The way in which you structure contents in your thesis is largely dependent on what your thesis is about. A starting point could be the following:
+
+1. Introduction - a section where you define the problem you are going to work on
+2. Methods
+3. Simulation studies
+4. Applications
+5. Conclusion / discussion
+
+This, however, is a rather generic backbone, and you most likely will want to adapt it to your work. We can discuss together how to best structure your thesis!
