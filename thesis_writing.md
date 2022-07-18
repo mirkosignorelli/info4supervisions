@@ -28,7 +28,7 @@ Keep in mind that the examiner(s) will have a limited amount of time to read and
 * **define the meaning of the mathematical notations you use**, and do so at their first occurrence. Keep in mind that the reader may not be familiar with the type of notation you use!
 * **try to keep it short, and to the point**: since he/she will have a limited amount of time to read your thesis, the examiner will appreciate it if you can explain things coincisely and  avoid to provide information that is not relevant to your work / too many unnecessary details;
 * **proofread what you write**, and ask yourself: is that grammatically correct, and clear?
-* avoid as much as possible long sentences which may be hard to read;
+* avoid as much as possible long sentences which may be hard to read. Consider breaking long sentences into shorter ones;
 * make use of bulleted lists to organize complex chunks of information, rather than sticking everyting in a long inline paragraph.
 
 
