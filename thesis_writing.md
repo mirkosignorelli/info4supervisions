@@ -20,7 +20,7 @@ The way in which you structure contents in your thesis is largely dependent on w
 
 This, however, is a rather generic backbone, and you most likely will want to adapt it to your work. We can discuss together how to best structure your thesis!
 
-## Readibility
+## Readability
 
 Keep in mind that the examiner(s) will have a limited amount of time to read and evaluate your thesis. For this reason, it is important that your thesis is well-structured, and that things are explained as clearly as possible and in a concise manner. Some suggestions:
 
