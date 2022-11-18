@@ -13,7 +13,7 @@ Are you interested in doing your thesis project with me? If so, please check out
 
 Please use an **author-year** citation stile for references in your project proposal and thesis. [Check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/formatting_references.md) for more tips and recommendations about how to manage references and bibliographies.
 
-Using Alice
+## Using Alice
 
 If your project involves time-consuming or memory-intensive computations, it is likely that at some point you will need to run them on a High Performance Computing (HPC) cluster. In that case, we will probably make use of *Alice*, the HPC of Leiden University. Hereafter you can find some useful links about Alice:
 
