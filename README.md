@@ -1,6 +1,6 @@
 # Information about supervision of research projects for bachelor and master students
 
-This repository contains a few documents that are meant to facilitate and streamline some parts of my supervisions of bachelor and master students. It is inspired by my supervisions to date, and thus very much not static. If you have any feedback or suggestions about it, feel free to let me know!
+This repository contains a few documents that are meant to facilitate and streamline some parts of my supervisions of bachelor and master students. It is inspired by my supervisions to date, and thus very much not static. **If you have any feedback or suggestions about it, feel free to let me know!**
 
 ## Supervision requests
 
