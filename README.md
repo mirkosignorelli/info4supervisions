@@ -9,19 +9,24 @@ Are you interested in doing your thesis project with me? If so, please check out
 1. this document that explains [what to include in your supervision request](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md);
 2. [my personal website](https://mirkosignorelli.github.io) to get an idea of my research interests and past work.
 
-## Formatting references
+## Preparing for supervision meetings
+
+
+
+## Writing your thesis
+
+Writing a thesis is a process that spans over weeks or months, and it's a process that is hard to standardize. Nevertheless, here I have tried to gather some [guidelines that can help make your thesis well-structured and more readable](https://github.com/mirkosignorelli/info4supervisions/blob/main/thesis_writing.md).
+
+## Technical skills
+
+### Formatting references
 
 Please use an **author-year** citation stile for references in your project proposal and thesis. [Check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/formatting_references.md) for more tips and recommendations about how to manage references and bibliographies.
 
-## Using Alice
+### Using Alice
 
 If your project involves time-consuming or memory-intensive computations, it is likely that at some point you will need to run them on a High Performance Computing (HPC) cluster. In that case, we will probably make use of *Alice*, the HPC of Leiden University. Hereafter you can find some useful links about Alice:
 
 1. [Alice's wiki](https://pubappslu.atlassian.net/wiki/spaces/HPCWIKI/overview)
 2. [procedure to get an account](https://pubappslu.atlassian.net/wiki/spaces/HPCWIKI/pages/37519441/Getting+an+account+on+ALICE)
 3. [how to login](https://pubappslu.atlassian.net/wiki/spaces/HPCWIKI/pages/37748737/User+Guide)
-
-
-## Writing your thesis
-
-Writing a thesis is a process that spans over weeks or months, and it's a process that is hard to standardize. Nevertheless, here I have tried to gather some [guidelines that can help make your thesis well-structured and more readable](https://github.com/mirkosignorelli/info4supervisions/blob/main/thesis_writing.md).
