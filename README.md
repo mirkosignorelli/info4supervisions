@@ -11,7 +11,12 @@ Are you interested in doing your thesis project with me? If so, please check out
 
 ## Preparing for supervision meetings
 
+Although showing up at a meeting and improvising may feel natural, this is usually not the best way to ensure that we can get the most out of a supervision meeting. Below are some tips that you can use to ensure that our supervision meetings are more organized and effective:
 
+1. make a list of the topics that you would like to discuss. This can be anything, from content-specific questions to technical problems or administrative matters;
+2. bring your laptop so that you can access all your files when needed;
+3. consider preparing a small PowerPoint presentation where you can include screenshots of your technical problems (for example coding problems in `R`), explanations of what you have been working on so far, or where you gather the results of your latest analyses;
+4. take notes of what we discussed, so that you don't have to rely on your memory - often a lot of things are said during meetings, and it can be hard to remember all what has been said.
 
 ## Writing your thesis
 
