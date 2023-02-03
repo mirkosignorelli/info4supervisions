@@ -11,7 +11,7 @@ Are you interested in doing your thesis project with me? If so, please check out
 
 ## Preparing for supervision meetings
 
-Although showing up at a meeting and improvising may feel natural, this is usually not a good strategy to ensure that we can get the most out of a supervision meeting. Below are some tips that you can use to ensure that our supervision meetings are more organized and effective:
+Although showing up at a meeting and improvising may feel natural, this is usually not a good strategy to ensure that we can get the most out of a supervision meeting. Below are some tips that you can use to help making our supervision meetings more organized and effective:
 
 1. make a list of the topics that you would like to discuss. This can be anything, from content-specific questions to technical problems or administrative matters;
 2. bring your laptop so that you can access all your files when needed;
