@@ -31,4 +31,12 @@ Keep in mind that the examiner(s) will have a limited amount of time to read and
 * avoid as much as possible long sentences which may be hard to read. Consider breaking long sentences into shorter ones;
 * make use of bulleted lists to organize complex chunks of information, rather than sticking everyting in a long inline paragraph.
 
+## Proof-reading
+
+Before you send a draft of your thesis, it is recommended that you proof-read it. [At this page](https://www.unr.edu/writing-speaking-center/student-resources/writing-speaking-resources/editing-and-proofreading-techniques) you can find some suggestions on how to do that. In particular, it may be useful to:
+
+* reread a paragraph / subsection once you finished to write it;
+* read what you wrote aloud;
+* ask someone else to read what you wrote, to double-check that it is understandable to other people.
+
 
