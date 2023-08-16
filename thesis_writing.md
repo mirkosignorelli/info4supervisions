@@ -1,4 +1,4 @@
-# Guidelines and recommendation on how to write your thesis (work in progress!)
+# Guidelines and recommendations on how to write your thesis (work in progress!)
 
 ## Document formatting
 
