@@ -33,7 +33,7 @@ Please use an **author-year** citation stile for references in your project prop
 If I shared a folder with you on OneDrive but later you can't find it anymore, try following these steps:
 
 1. go to the online page of your OneDrive;
-2. locate the menu on the left side of the page (here's a [screenshot of how it should like]);(https://github.com/mirkosignorelli/info4supervisions/assets/20061736/4de6a7ee-4c49-4562-9956-68af987c0d62);
+2. locate the menu on the left side of the page (here's a [screenshot of how it should like](https://github.com/mirkosignorelli/info4supervisions/assets/20061736/4de6a7ee-4c49-4562-9956-68af987c0d62));
 3. click on "Shared" and check if you can see the shared folder there;
 4. if (3) doesn't work, click on "Browse by: People". Hopefully, there you should see my name, and by clicking on it be able to retrieve the shared folder.
 
