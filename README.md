@@ -28,6 +28,14 @@ Writing a thesis is a process that spans over weeks or months, and it's a proces
 
 Please use an **author-year** citation stile for references in your project proposal and thesis. [Check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/formatting_references.md) for more tips and recommendations about how to manage references and bibliographies.
 
+### Finding a shared folder on OneDrive
+
+If I shared a folder with you on OneDrive but later you can't find it anymore, try following these steps:
+
+1. go to the online page of your OneDrive;
+2. ![in the left-side menu](https://github.com/mirkosignorelli/info4supervisions/assets/20061736/4de6a7ee-4c49-4562-9956-68af987c0d62), click on "Shared" and check if you can see the shared folder there;
+3. if (2) doesn't work, click on "Browse by: People". Hopefully, there you should see my name, and by clicking on it be able to retrieve the shared folder.
+
 ### Using Alice
 
 If your project involves time-consuming or memory-intensive computations, it is likely that at some point you will need to run them on a High Performance Computing (HPC) cluster. In that case, we will probably make use of *Alice*, the HPC of Leiden University. Hereafter you can find some useful links about Alice:
