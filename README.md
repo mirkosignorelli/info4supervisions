@@ -4,10 +4,10 @@ This repository contains a few documents that are meant to facilitate and stream
 
 ## Supervision requests
 
-Are you interested in doing your thesis project with me? That's great to hear, as I am often available to supervise well-prepared and motivated students on projects involving methodological, computational and applied statistics problems. Before sending me a supervision request, it may be useful for you to check out:
+Are you interested in doing your thesis project with me? That's great to hear, as I am often available to supervise well-prepared and motivated students on projects involving methodological, computational and applied statistics problems! Before sending me a supervision request, it may be useful for you to check out:
 
-1. this document that explains [what to include in your supervision request](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md);
-2. [my personal website](https://mirkosignorelli.github.io) to get an idea of my research interests and past work.
+1. [my personal website](https://mirkosignorelli.github.io) to get an idea of my research interests and past work.
+2. this document that explains [what to include in your supervision request](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md);
 
 ## Preparing for supervision meetings
 
