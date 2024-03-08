@@ -1,6 +1,6 @@
 When you are preparing a report, presentation or writing your thesis, you may sometimes need to create table based on results obtained in `R`. Obviously, you'd rather not copy manually all values from R to LaTeX.
 
-Here's a easier, quicker and more reliable way to do this:
+Here's an easier, quicker and more reliable way to do this:
 
 ```
 library(xtable)
