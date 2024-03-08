@@ -3,7 +3,8 @@ library(xtable)
 x = iris[1:6,]
 x |> xtable(digits = 2) |> print(include.rownames = F)
 ```
-
+Output:
+```
 % latex table generated in R 4.3.0 by xtable 1.8-4 package
 % Fri Mar  8 15:42:07 2024
 \begin{table}[ht]
@@ -21,3 +22,4 @@ Sepal.Length & Sepal.Width & Petal.Length & Petal.Width & Species \\
    \hline
 \end{tabular}
 \end{table}
+```
