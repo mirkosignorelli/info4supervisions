@@ -30,7 +30,7 @@ Please use an **author-year** citation stile for references in your project prop
 
 ### Exporting tables from R to LaTeX
 
-See this example.
+See [this example](https://github.com/mirkosignorelli/info4supervisions/blob/main/tables_R2LaTeX.md).
 
 ### Finding a shared folder on OneDrive
 
