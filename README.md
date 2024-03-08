@@ -28,6 +28,10 @@ Writing a thesis is a process that spans over weeks or months, and it's a proces
 
 Please use an **author-year** citation stile for references in your project proposal and thesis. [Check out this document](https://github.com/mirkosignorelli/info4supervisions/blob/main/formatting_references.md) for more tips and recommendations about how to manage references and bibliographies.
 
+### Exporting tables from R to LaTeX
+
+See this example.
+
 ### Finding a shared folder on OneDrive
 
 If I shared a folder with you on OneDrive but later you can't find it anymore, try following these steps:
