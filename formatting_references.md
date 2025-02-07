@@ -14,7 +14,9 @@ Therefore, I would like to ask you to **use author-year citation styles in your 
 
 ## 2) Suggestion: use a dedicated tool to manage your bibliography and the citation style
 
-Managing references and citation styles is a tedious task. Luckily, it can be easily automated. Here is how you can do it by using LaTeX and BibTeX:
+Managing references and citation styles is a tedious task. Luckily, it can be easily automated. Below you can find a short description of how you can do this using Zotero or JabRef.
+
+### A) JabRef + LaTeX
 
 1. Install [JabRef](https://www.jabref.org)
 2. Open JabRef and create a BibTeX archive with: File -> New library
@@ -44,3 +46,14 @@ Managing references and citation styles is a tedious task. Luckily, it can be ea
 8. Compile your LaTeX document with `PDFLaTeX` once, then compile the BibTeX archive with BibTeX, and then recompile the LaTeX document with PDFLaTeX **twice**.
 
 If you have troubles doing this, let me know and I can try to help you making this procedure work. It takes some time to get used to it, but it is worth it in the long run!
+
+### B) Zotero + LaTeX
+
+1. Install [Zotero](https://www.zotero.org), as well as its browser plugin(s)
+2. Create a list of references in Zotero, and add references to it by searching for the reference in Google Scholar, and adding it to Zotero through the browser plugin
+3. Follow [these instructions](https://libguides.rhul.ac.uk/referencing/Zoterolatex) to create a .bib file to use with LaTeX
+4. In your LaTeX document, include `\usepackage{natbib}` in the preamble, and:
+
+`\bibliographystyle{apalike}`  
+`\bibliography{bibtex_filename}`
+
