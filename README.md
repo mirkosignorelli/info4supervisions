@@ -9,7 +9,7 @@ Are you interested in doing your thesis project with me? That's great to hear, a
 1. [my personal website](https://mirkosignorelli.github.io) to get an idea of my research interests and past work.
 2. this document that explains [what to include in your supervision request](https://github.com/mirkosignorelli/info4supervisions/blob/main/supervision_request.md);
 
-## Preparing for supervision meetings
+## Preparing for project meetings
 
 Although showing up at a meeting and improvising may feel natural, this is usually not a good strategy to ensure that you can get the most out of a supervision meeting. Below are some tips that you can use to help making our supervision meetings more organized and effective:
 
