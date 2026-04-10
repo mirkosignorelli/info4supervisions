@@ -17,8 +17,8 @@ When submitting a supervision request, please make sure to include the following
 5. does your programme require you to acquire a certain number of ECs before you can start working on your thesis?
 6. your **research interests**: are there specific topics, either methodological or applied, that you would like to explore?
 7. a **list of exams you have already passed** (inclusive of grades; an official transcript is preferable)
-8. a **list of courses that you have followed / are following**, for which you have not yet done / passed an exam
-9. whether you would be available for **in person / hybrid supervision meetings**, or whether you require a **fully online supervision**
+8. if relevant, a **list of courses that you have followed / are following**, for which you have not yet done / passed an exam
+9. whether you would be available for **in person supervision meetings**, or whether you require a **fully online or hybrid supervision**
 
 Please send your request to my work email address, which you can find [here](https://www.universiteitleiden.nl/en/staffmembers/mirko-signorelli#tab-1). It may be convenient to include (7) and (8) as attachments (for example, as pdf).
 
