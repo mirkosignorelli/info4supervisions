@@ -14,7 +14,7 @@ When submitting a supervision request, please make sure to include the following
 2. the **name of your bachelor / master programme**
 3. if you are a master student: what did you study in your bachelor?
 4. **number of ECs** assigned to the project and expected duration
-5. does your programme require you to acquire a certain number of ECs before you can start working on your thesis?
+5. does your programme require you to acquire a certain number of ECs before you can start working on your thesis? (If yes: how many?)
 6. your **research interests**: are there specific topics, either methodological or applied, that you would like to explore?
 7. a **list of exams you have already passed** (inclusive of grades; an official transcript is preferable)
 8. if relevant, a **list of courses that you have followed / are following**, for which you have not yet done / passed an exam
